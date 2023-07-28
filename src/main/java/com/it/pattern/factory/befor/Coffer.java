@@ -5,6 +5,7 @@ package com.it.pattern.factory.befor;
  * @Author : 彭建飞
  */
 public abstract class Coffer {
+
     public abstract String getName();
 
      void addSugar(){
